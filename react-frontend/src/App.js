@@ -1,6 +1,14 @@
 // src/App.js
 // npm start
 
+/*
+git pull origin linking
+git add .
+git commit -m "Resolved merge conflicts"
+git push origin branch
+
+*/
+
 import React, {useState, useEffect} from 'react';
 import Table from './Table';
 import Form from './Form';
