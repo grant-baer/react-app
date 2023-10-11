@@ -6,7 +6,6 @@ git pull origin linking
 git add .
 git commit -m "Resolved merge conflicts"
 git push origin branch
-
 */
 
 import React, {useState, useEffect} from 'react';
